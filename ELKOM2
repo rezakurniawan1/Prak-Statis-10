@@ -1,0 +1,9 @@
+#Latihan 3 Tugas
+
+dbinom(5, 20, prob=0.85)
+
+pbinom(3,20,prob=0.15)
+
+dbinom(8, 20, prob=0.85)
+
+pbinom(2,20,prob=0.15)
